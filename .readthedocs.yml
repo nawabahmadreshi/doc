@@ -1,6 +1,6 @@
 version: 2
-formats: all
-sphinx:
-  configuration: docs/conf.py
+  formats: all
+  sphinx:
+    configuration: docs/conf.py
 python:
   requirements: requirements.txt
