@@ -40,7 +40,7 @@ django-filter==1.1.0
 django-vanilla-views==1.0.5
 jsonfield==2.0.2
 
-requests==2.19.1
+requests==2.20.0
 requests-toolbelt==0.8.0
 slumber==0.7.1
 lxml==4.2.4
